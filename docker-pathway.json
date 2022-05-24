@@ -1,0 +1,11 @@
+{
+  "title": "Docker",
+  "description": "Learning Docker",
+  "courses": [
+    {
+      "course_id": "A:\\src\\github.com\\hiberbee\\katacoda-scenarios\\dockerfile",
+      "title": "Dockerfile",
+      "description": "Dockerfile syntax, structure, core features"
+    }
+  ]
+}
